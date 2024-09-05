@@ -3,8 +3,8 @@ declare(strict_types=1);
 
 namespace EonX\EasySwoole\Helpers;
 
-use Swoole\Http\Request;
-use Swoole\Http\Response;
+use OpenSwoole\Http\Request;
+use OpenSwoole\Http\Response;
 use Symfony\Component\HttpFoundation\BinaryFileResponse;
 use Symfony\Component\HttpFoundation\HeaderBag;
 use Symfony\Component\HttpFoundation\Request as HttpFoundationRequest;

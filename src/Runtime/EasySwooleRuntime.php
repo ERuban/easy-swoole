@@ -12,7 +12,7 @@ use EonX\EasySwoole\Helpers\FunctionHelper;
 use EonX\EasySwoole\Helpers\OptionHelper;
 use EonX\EasySwoole\Helpers\SslCertificateHelper;
 use ReflectionClass;
-use Swoole\Constant;
+use OpenSwoole\Constant;
 use Symfony\Component\Console\Application;
 use Symfony\Component\HttpKernel\HttpKernelInterface;
 use Symfony\Component\Runtime\RunnerInterface;
